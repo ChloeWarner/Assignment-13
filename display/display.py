@@ -88,3 +88,4 @@ if __name__ == "__main__":
     print ( "=> ", end="" )
     x = int(input())
     art.show_man ( x )
+  
